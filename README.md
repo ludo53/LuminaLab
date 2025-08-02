@@ -72,3 +72,4 @@ Contributions to LuminaLab are welcome and appreciated! We value community input
 # License
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/ludo53/LuminaLab/blob/main/LICENSE) file for details.
+.
